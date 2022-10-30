@@ -12,5 +12,5 @@ docker run --rm --runtime=nvidia --ipc=host  -e NVIDIA_VISIBLE_DEVICES=all --gpu
 
 Both docker images in task1 and task2 is uploaded in [google drive](https://drive.google.com/drive/folders/1plS5nNRIF2fNZm-BxjiTckF9JNFEUbp8?usp=sharing).
 
-Our method and experimental results are summerized arxiv.  
+Our method and experimental results are summerized [arxiv](https://arxiv.org/abs/2210.13364).  
 If you have questions, feel free to ask me.
